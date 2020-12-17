@@ -1,6 +1,6 @@
 <h1 align="center">📝 Discord token Scraper 📝</h1>
 <h3 align="center">Scrapes tokens in channel</h3>
-<h4 align="center">⭐ Created by https://github.com/lnxcz/discord-scraper⭐</h4>
+<h4 align="center">⭐ Created by https://github.com/lnxcz/discord-scraper $ me⭐</h4>
 
 
 
